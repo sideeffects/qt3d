@@ -225,7 +225,6 @@
 #define fseeko64 fseeko
 #define fopen64 fopen
 #define freopen64 freopen
-#define stat64 stat
 #endif
 
 #ifdef __cplusplus
